@@ -24,7 +24,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 15px;
 }
 .contact-icons img {
     width: 48px;
