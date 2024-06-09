@@ -40,3 +40,7 @@ body {
     width: 200px;
     height: 40px;
 }
+.about-us {
+    background-color: rgb(35, 35, 35);
+    color: white;
+}
